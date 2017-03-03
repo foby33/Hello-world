@@ -1,3 +1,2 @@
 # Hello-world
-I'm first create repository...
-So this readme is test.
+Just another repository
